@@ -1,0 +1,1 @@
+# PatikaDevVeriAnaliziFinalCase1
