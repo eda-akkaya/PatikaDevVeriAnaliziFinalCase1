@@ -4,10 +4,15 @@ Bu veri seti bir havayolu yolcu memnuniyeti anketini içermektedir. Memnun (veya
 # İçerik
 
 1.Veri Seti ve Amaç
+
 2. İstatistiksel Özet
+  
 3. Eksik Değer Analizi
+  
 4. Aykırı Değer Analizi
+   
 5. Görselleştirme Bulguları
+
 6. Sonuç ve Öneriler
 
 
